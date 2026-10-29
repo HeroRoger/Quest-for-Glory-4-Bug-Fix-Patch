@@ -291,6 +291,7 @@ This pack is built on AshLancer's and DoomLazer's work. Thank you both, and than
 - **DoomLazer**, author of Enhanced 1.2, which decompiled AshLancer's patches and fixed bugs they had introduced.
 - **NewRisingSun**, whose speed fixes for this game are part of Enhanced.
 - **The ScummVM team.** Many fixes in this patch are ScummVM's own QFG4 script fixes, copied byte for byte or rebuilt for DOSBox. ScummVM's bug tracker and notes were the map for much of this work. ScummVM is free software under the GNU GPL. Thanks also to **sluicebox**, who is credited in Enhanced 1.2 for QFG4 fix research.
+- **h3rmit-git**, whose QFG4-Fixes patch (2022, https://github.com/h3rmit-git/QFG4-Fixes) fixed the jester's chair speed bug and the Squid Stone slope and bonsai crashes first. It is how we learned of the chair bug.
 - The Quest for Glory fan community, for years of bug reports, walkthroughs and Let's Plays.
 - This patch: **HeroRoger** (https://github.com/HeroRoger/QFG4-Enhanced).
 - *The analysis and patch building were done with the help of an AI assistant (Claude, by Anthropic). Every fix is described in this file and was checked by automated tests.*
